@@ -3,3 +3,5 @@ def Add(a, b):
 
 def Subtract(a, b):
     return a - b
+
+print("ok")
